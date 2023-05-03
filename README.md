@@ -7,14 +7,14 @@
 - 2023 Goal 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://mehmetcyr.live)
-[![website](./img/globe-dark.svg)](https://mehmetcyr.live)
+[![website](./img/globe-light.svg)](http://mehmetcyr.live#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mehmetcyr.live#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/meadow0)
-[![website](./img/instagram-dark.svg)](https://instagram.com/meadow0)
+[![website](./img/instagram-light.svg)](https://instagram.com/meadow0#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/meadow0#gh-dark-mode-only)
 
 ---
 
