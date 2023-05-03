@@ -19,7 +19,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical
+  https://github-readme-stats.vercel.app/api?username=mehmetcyr0&show_icons=true&theme=radical
 "/>
 
 </details>
