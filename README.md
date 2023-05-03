@@ -1,7 +1,7 @@
 # Hi there, I'm Mehmet
 [![Website](https://img.shields.io/website?label=mehmetcyr.live&style=for-the-badge&url=http%3A%2F%2Fmehmetcyr.live)](http://mehmetcyr.live)
 
-## I'm a Developer, and Student
+## I'm a Developer and Student
 - I’m currently learning everything
 - I love to play video games and do martial arts
 - 2023 Goal 
