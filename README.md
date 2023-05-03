@@ -6,7 +6,7 @@
 - I love to play video games and do martial arts
 - 2023 Goal 
 ### Connect with me:
-&nbsp;&nbsp;
+
 [![website](./img/Mharf.svg)](http://mehmetcyr.live)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-light-mode-only)
