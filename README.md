@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [![website](./img/Mharf.svg)](http://mehmetcyr.live)
-
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -20,7 +20,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mehmet's GitHub Stats" src="" />
+  <img align="left" alt="mehmet's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mehmetcyr0&show_icons=true&theme=radical
+"/>
 
 </details>
 
