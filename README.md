@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [![website](./img/Mharf.svg)](http://mehmetcyr.live)
-[![website](./img/Mharf.svg)](https://mehmetcyr.live)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-dark-mode-only)
