@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Mehmet
+[![Website](https://img.shields.io/website?label=mehmetcyr.live&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://mehmetcyr.live)
 
-<!--
-**mehmetcyr0/mehmetcyr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, and Student
+- I’m currently learning everything
+- I love to play video games and do martial arts
+- 2023 Goal 
+### Connect with me:
 
-Here are some ideas to get you started:
+[![website](./img/globe-light.svg)](http://mehmetcyr.live#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mehmetcyr.live#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mehmet-%C3%A7ay%C4%B1r-b03209251#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/meadow0#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/meadow0#gh-dark-mode-only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mehmet's GitHub Stats" src="" />
+
+</details>
+
+[website]: http://mehmetcyr.live
