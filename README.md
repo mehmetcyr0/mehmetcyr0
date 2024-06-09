@@ -1,5 +1,5 @@
 # Hi there, I'm Mehmet
-[![Website]((http://mehmetcyr.com)
+[![website](./img/Mharf.svg)](https://www.mehmetcyr.com1#gh-light-mode-only)
 
 ## I'm a Developer and Student
 - I’m currently learning everything
