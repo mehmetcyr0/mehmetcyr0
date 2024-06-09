@@ -1,5 +1,5 @@
 # Hi there, I'm Mehmet
-[![Website](https://img.shields.io/website?label=mehmetcyr.com&style=for-the-badge&url=http%3A%2F%2Fmehmetcyr.com)](http://mehmetcyr.com)
+[![Website]((http://mehmetcyr.com)
 
 ## I'm a Developer and Student
 - I’m currently learning everything
