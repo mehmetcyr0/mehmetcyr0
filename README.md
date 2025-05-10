@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HAYAT-HATTI](https://github.com/mehmetcyr0/HayatHatti)
 
-- 🌱 I’m currently learning **Dart/Flutter/Firebase**
+- 🌱 I’m currently learning **JETPACK COMPOSE**
 
 - 👨‍💻 My Portfolio Page [http://mehmetcyr.com/](http://mehmetcyr.com/)
 
