@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Çayır</h1>
 <h3 align="center">About Me!</h3>
 
+- 🌱 I’m **Flutter Developer**
+- 
 - 🔭 I’m currently working on [HAYAT-HATTI](https://github.com/mehmetcyr0/HayatHatti)
 
 - 🌱 I’m currently learning **JETPACK COMPOSE**
